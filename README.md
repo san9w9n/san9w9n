@@ -11,7 +11,7 @@
 - Machine learning to classify images
 
 ### 🔭 I’m currently working on ...
-- Make Personal Web Site with Node.js
+- Make Web service with Node.js
 - AI Hackathon Competition (Jeju Techno Park)
 
 <!--
