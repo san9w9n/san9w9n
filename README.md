@@ -6,7 +6,7 @@
 
 ### 🌱 I’m currently learning ...
 - HTML, CSS, JS
-- Node.js
+- Node.js (Express)
 - Algorithms for PS
 - Machine learning to classify images
 
