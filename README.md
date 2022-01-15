@@ -11,7 +11,8 @@
 - Machine learning to classify images
 
 ### 🔭 I’m currently working on ...
-- Make Web service with Node.js
+- Make Todo list with Express.js, MongoDB
+- Participating in a lecture on S/W algorithms for college students in Samsung Electronics' DX division.
 - AI Hackathon Competition (Jeju Techno Park)
 
 <!--
