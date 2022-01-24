@@ -8,12 +8,11 @@
 - HTML, CSS, JS
 - Node.js (Express)
 - Algorithms for PS
-- Machine learning to classify images
+- Machine learning
 
 ### 🔭 I’m currently working on ...
 - Make Todo list with Express.js, MongoDB
 - Participating in a lecture on S/W algorithms for college students in Samsung Electronics' DX division.
-- AI Hackathon Competition (Jeju Techno Park)
 
 <!--
 **san9w9n/san9w9n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
