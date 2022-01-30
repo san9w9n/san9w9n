@@ -11,7 +11,8 @@
 - Machine learning
 
 ### 🔭 I’m currently working on ...
-- Make Todo list with Express.js, MongoDB
+- Team project to develop a lecture question platform.
+- Make Todo list web service with Express.js, MongoDB.
 - Participating in a lecture on S/W algorithms for college students in Samsung Electronics' DX division.
 
 <!--
