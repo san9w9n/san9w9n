@@ -12,7 +12,7 @@
 
 ### 🔭 I’m currently working on ...
 - Team project to develop a lecture question platform.
-- Make Todo list web service with Express.js, MongoDB.
+- Make web service with Express.js, MongoDB.
 - Participating in a lecture on S/W algorithms for college students in Samsung Electronics' DX division.
 
 <!--
