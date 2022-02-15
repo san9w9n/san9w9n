@@ -14,7 +14,7 @@
 - Team project to develop a lecture question platform.
 - Make web service with Express.js, MongoDB.
 - Participating in a lecture on S/W algorithms for college students in Samsung Electronics' DX division.
-
+- Participating in Hyundai AutoEver SW training program.
 <!--
 **san9w9n/san9w9n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
