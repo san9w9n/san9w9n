@@ -5,14 +5,13 @@
 [![san9w9n's GitHub stats](https://github-readme-stats.vercel.app/api?username=san9w9n)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🌱 I’m currently learning ...
-- HTML, CSS, JS
-- Node.js (Express)
+- Major knowledge (operating system, database, data structure, etc.)
+- Knowledge for backend development
 - Algorithms for PS
 - Machine learning
 
 ### 🔭 I’m currently working on ...
 - Team project to develop a lecture question platform.
-- Make web service with Express.js, MongoDB.
 - Participating in a lecture on S/W algorithms for college students in Samsung Electronics' DX division.
 - Participating in Hyundai AutoEver SW training program.
 <!--
