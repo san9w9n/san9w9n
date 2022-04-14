@@ -11,9 +11,11 @@
 - Machine learning
 
 ### 🔭 I’m currently working on ...
+- Part-time backend developer at SPACEMAP. (https://www.spacemap42.com/)
 - Team project to develop a lecture question platform.
-- Participating in a lecture on S/W algorithms for college students in Samsung Electronics' DX division.
-- Participating in Hyundai AutoEver SW training program.
+- Team project to develop rental management IOS app.
+- Mini project to develop a chatting room for school club.
+
 <!--
 **san9w9n/san9w9n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
