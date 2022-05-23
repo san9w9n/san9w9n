@@ -11,7 +11,7 @@
 - Machine learning
 
 ### 🔭 I’m currently working on ...
-- Part-time backend developer at SPACEMAP. (https://www.spacemap42.com/)
+- Part-time backend developer at SPACEMAP. (https://platform.spacemap42.com/)
 - Team project to develop a lecture question platform.
 - Team project to develop rental management IOS app.
 - Mini project to develop a chatting room for school club.
