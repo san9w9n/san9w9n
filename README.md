@@ -14,4 +14,4 @@
 
 ### 🔭 I’m currently working on ...
 - Part-time backend developer at SPACEMAP. (https://platform.spacemap42.com/)
-- Internship at the AI Application Strategy Office of the KAERI.
+- Participating in an Internship at the AI Application Strategy Office of the KAERI.
