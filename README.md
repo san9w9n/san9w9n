@@ -4,6 +4,8 @@
 
 [![san9w9n's GitHub stats](https://github-readme-stats.vercel.app/api?username=san9w9n)](https://github.com/anuraghazra/github-readme-stats)
 
+![san9w9n's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=san9w9n&layout=compact&theme=light)
+
 ### 🌱 I’m currently learning ...
 - Major knowledge (operating system, database, data structure, etc.)
 - Knowledge for backend development
