@@ -8,9 +8,9 @@
 
 ### 🌱 I’m currently learning ...
 - Major knowledge (operating system, database, data structure, etc.)
-- Knowledge for backend development
 - Algorithms for PS
-- Machine learning
+- Knowledge for backend development
+- Machine/Deep learning
 
 ### 🔭 I’m currently working on ...
 - Part-time backend developer at SPACEMAP. (https://platform.spacemap42.com/)
