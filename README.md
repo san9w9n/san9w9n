@@ -13,5 +13,4 @@
 - Machine/Deep learning
 
 ### 🔭 I’m currently working on ...
-- Part-time backend developer at SPACEMAP. (https://platform.spacemap42.com/)
 - Participating in an Internship at the AI Application & Strategy Team of the KAERI.
